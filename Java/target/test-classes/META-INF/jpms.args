@@ -1,0 +1,4 @@
+--patch-module
+HyperSnip=_
+--add-reads
+HyperSnip=ALL-UNNAMED
